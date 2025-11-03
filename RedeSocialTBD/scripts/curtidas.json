@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6907af71221acce35dd14e38"
+  },
+  "id_Publicacao": {
+    "$oid": "6907abcd221acce35dd14e2c"
+  },
+  "id_Usuario": {
+    "$oid": "6907a8dd6949268c19844caf"
+  },
+  "data": {
+    "$date": "2025-11-02T19:21:43.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907af8b221acce35dd14e39"
+  },
+  "id_Publicacao": {
+    "$oid": "6907abcd221acce35dd14e2c"
+  },
+  "id_Usuario": {
+    "$oid": "6907a9206949268c19844cb1"
+  },
+  "data": {
+    "$date": "2025-11-02T19:21:43.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907afba221acce35dd14e3a"
+  },
+  "id_Publicacao": {
+    "$oid": "6907ab4b221acce35dd14e2a"
+  },
+  "id_Usuario": {
+    "$oid": "6907a8dd6949268c19844caf"
+  },
+  "data": {
+    "$date": "2025-11-02T19:21:43.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907afeb221acce35dd14e3b"
+  },
+  "id_Publicacao": {
+    "$oid": "6907aaf4221acce35dd14e29"
+  },
+  "id_Usuario": {
+    "$oid": "6907a8516949268c19844cae"
+  },
+  "data": {
+    "$date": "2025-11-02T19:21:43.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907b018221acce35dd14e3c"
+  },
+  "id_Publicacao": {
+    "$oid": "6907abaf221acce35dd14e2b"
+  },
+  "id_Usuario": {
+    "$oid": "69066e7f50e348353d1be768"
+  },
+  "data": {
+    "$date": "2025-11-02T19:21:43.841Z"
+  }
+}]
