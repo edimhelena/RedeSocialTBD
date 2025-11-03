@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6907acb0221acce35dd14e2e"
+  },
+  "idUsuario": {
+    "$oid": "69066e7f50e348353d1be768"
+  },
+  "idPublicacao": {
+    "$oid": "6907ac39221acce35dd14e2d"
+  },
+  "descricao": "coé Felipão, comentario do arthur",
+  "data": {
+    "$date": "2025-11-02T19:09:31.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907acdc221acce35dd14e2f"
+  },
+  "idUsuario": {
+    "$oid": "69066e7f50e348353d1be768"
+  },
+  "idPublicacao": {
+    "$oid": "6907ac39221acce35dd14e2d"
+  },
+  "descricao": "coé Felipão, comentario do arthur 2",
+  "data": {
+    "$date": "2025-11-02T19:09:31.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907ad29221acce35dd14e30"
+  },
+  "idUsuario": {
+    "$oid": "6907a8516949268c19844cae"
+  },
+  "idPublicacao": {
+    "$oid": "6907ab4b221acce35dd14e2a"
+  },
+  "descricao": "comentario da helena no post da camily",
+  "data": {
+    "$date": "2025-11-02T19:09:31.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907ad80221acce35dd14e31"
+  },
+  "idUsuario": {
+    "$oid": "6907a8dd6949268c19844caf"
+  },
+  "idPublicacao": {
+    "$oid": "6907aaf4221acce35dd14e29"
+  },
+  "descricao": "comentario do felipe no post da sarah",
+  "data": {
+    "$date": "2025-11-02T19:09:31.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907adb6221acce35dd14e32"
+  },
+  "idUsuario": {
+    "$oid": "6907a9206949268c19844cb1"
+  },
+  "idPublicacao": {
+    "$oid": "6907abaf221acce35dd14e2b"
+  },
+  "descricao": "comentario da camily no post da helena",
+  "data": {
+    "$date": "2025-11-02T19:09:31.739Z"
+  }
+}]
