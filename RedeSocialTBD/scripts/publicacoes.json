@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6907aaf4221acce35dd14e29"
+  },
+  "id_usuario": {
+    "$oid": "6907a9546949268c19844cb2"
+  },
+  "descricao": "post da sarah",
+  "data": {
+    "$date": "2025-11-02T19:02:15.835Z"
+  },
+  "hashtags": []
+},
+{
+  "_id": {
+    "$oid": "6907ab4b221acce35dd14e2a"
+  },
+  "id_usuario": {
+    "$oid": "6907a9206949268c19844cb1"
+  },
+  "descricao": "post da camily",
+  "data": {
+    "$date": "2025-11-02T19:02:15.835Z"
+  },
+  "hashtags": [
+    "teste"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6907abaf221acce35dd14e2b"
+  },
+  "id_usuario": {
+    "$oid": "6907a8516949268c19844cae"
+  },
+  "descricao": "post da helena",
+  "data": {
+    "$date": "2025-11-02T19:02:15.835Z"
+  },
+  "hashtags": [
+    "teste",
+    "api"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6907abcd221acce35dd14e2c"
+  },
+  "id_usuario": {
+    "$oid": "6907a8516949268c19844cae"
+  },
+  "descricao": "post da helena 2",
+  "data": {
+    "$date": "2025-11-02T19:02:15.835Z"
+  },
+  "hashtags": [
+    "teste",
+    "api",
+    "bd"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6907ac39221acce35dd14e2d"
+  },
+  "id_usuario": {
+    "$oid": "6907a8dd6949268c19844caf"
+  },
+  "descricao": "post do felipao",
+  "data": {
+    "$date": "2025-11-02T19:02:15.835Z"
+  },
+  "hashtags": [
+    "amoOcaram"
+  ]
+}]
